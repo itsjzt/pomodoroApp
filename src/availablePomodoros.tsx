@@ -29,6 +29,6 @@ export const availablePomodoros = [
     id: 'maggiBreak;',
     minutes: 1,
     label: 'Maggi break',
-    icon: <MaggiIcon color={primaryColor} />,
+    icon: <ZapIcon color={primaryColor} width={50} height={50} />,
   },
 ];
